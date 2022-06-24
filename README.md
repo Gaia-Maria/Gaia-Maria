@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">😄 Pronouns: She/Her;<br>🌱 I’m currently learning JavaScript, Node.js, MongoDb and API rest/restful;<br>🔭I'm currently studying back-end at {Reprograma}. And systems analysis and development at Faculdade Digital Descomplica;<br>🌱 I'm currently learning Javascript, API, MongoDb and node.js;<br>🤔 I’m looking for help with Python;<br>⚡ Curiosity: I'm a history graduate, passionate about nerd culture (hack and slash games, comics, RPGs and sci-fi) and witchcraft;</p>
+<p align="left">😄 Pronouns: She/Her <br>🌱 I’m currently learning JavaScript, Node.js, MongoDb and API rest/restful <br>🔭I'm currently studying back-end at {Reprograma}. And systems analysis and development at Faculdade Digital Descomplica;<br>🌱 I'm currently learning Javascript, API, MongoDb and node.js <br>🤔 I’m looking for help with Python <br>⚡ Curiosity: I'm a history graduate, passionate about nerd culture (hack and slash games, comics, RPGs and sci-fi) and witchcraft.</p>
 
 ###
 
@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="47" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" width="47" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" width="47" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" width="47" alt="express logo"  />
+  <img src="https://icongr.am/devicon/express-original.svg?size=47&color=ffffff" height="35" width="47" alt="express logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" width="47" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="47" alt="python logo"  />
 </div>

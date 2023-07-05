@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">😄 Pronouns: She/Her <br>🌱 I’m currently learning JavaScript, Node.js, MongoDb and API rest/restful <br>🔭I'm currently studying back-end at {Reprograma}. And systems analysis and development at Faculdade Digital Descomplica;<br>🌱 I'm currently learning Javascript, API, MongoDb and node.js <br>🤔 I’m looking for help with Python <br>⚡ Curiosity: I'm a history graduate, passionate about nerd culture (hack and slash games, comics, RPGs and sci-fi) and witchcraft.</p>
+<p align="left">😄 Pronouns: She/Her <br>🌱 I’m currently learning Python and SQL <br>🔭I'm currently studying data science at Alura. And systems analysis and development at Faculdade Digital Descomplica; <br>🌱 I'm currently learning Javascript, Python, MongoDb and node.js <br>🤔 I’m looking for help with Selenium <br>⚡ Curiosity: I'm a history graduate, passionate about nerd culture (hack and slash games, God of War, comics, RPGs and sci-fi) and witchcraft.</p>
 
 ###
 
@@ -24,9 +24,6 @@
   </a>
   <a href="mailto:gaiamaria.melos@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="46" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://t.me/Dev_GaiaMaria" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="46" height="35" alt="telegram logo"  />
   </a>
 </div>
 
@@ -43,6 +40,14 @@
   <img src="https://icongr.am/devicon/express-original.svg?size=47&color=ffffff" height="35" width="47" alt="express logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" width="47" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="47" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="35" width="47" alt="jupyter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" width="47" alt="pandas logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="35" width="47" alt="selenium logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" width="47" alt="vscode logo"/>
+          
+          
+          
+          
 </div>
 
 ###
@@ -50,11 +55,8 @@
 <h3 align="left">GitHub Stats:</h3>
 
 ###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=Gaia Maria&username=Gaia-Maria" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&username=Gaia-Maria" height="150" alt="languages graph"  />
-</div>
+[![Gaia-Maria](https://github-readme-stats.vercel.app/api?username=Gaia-Maria&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Gaia-Maria](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaia-Maria&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
